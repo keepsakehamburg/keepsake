@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -77,11 +77,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "keepsake_NEW",
+        "title": "keepsake - hamburg acoustic rock",
         "meta_descr": "keepsake - hamburg acoustic rock",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/keepsake-covero-2000x2000.jpg"
       },
       "components": [
         {
